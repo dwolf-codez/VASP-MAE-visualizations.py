@@ -1,0 +1,4 @@
+# VASP-MAE-visualizations.py
+This code will visualize the MAE data in 10 different types of graphs, including 2D and 3D visualizations.
+Copy and paste the following code into Visual Studio or any Python platform. It will automatically detect 
+the file named MAE from the desktop only. You can change the name and location as you wish, but the default is as above.
